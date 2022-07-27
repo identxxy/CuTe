@@ -1,0 +1,23 @@
+exp_name = unnamed
+pcd_filename = '<filename>'
+
+cube_size = 1.0
+texture_size = 32
+cutoff_percent = 0.3
+feature_bins = 8
+
+USE_TEXTURE_LIB
+texture_lib_path = 'textures'
+
+USE_CLUSTER_TEXTURE_LIB
+cluster_texture_lib_path = 'textures/cluster'
+n_lib = 8
+
+### other flags. Uncomment to enable
+# VISUALIZE
+# n_texture_eg_to_show = 8
+
+# RAST_ONLY
+# CLUSTER_ONLY
+# RENDER_ONLY
+# RENDER_RAST
